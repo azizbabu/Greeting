@@ -1,0 +1,19 @@
+{
+    "name": "azizbabu/greeting",
+    "description": "Greeting - A sample laravel package",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abdul Aziz",
+            "email": "azizbabu10@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "AbdulAziz\\Greeting\\": "src/"
+        }
+    },
+    "require": {}
+}
